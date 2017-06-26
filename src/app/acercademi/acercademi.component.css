@@ -1,0 +1,25 @@
+.view{
+  height: 30%;
+}
+
+#acerca{
+  padding-top: 100px;
+}
+
+p {
+  color: #263238;
+}
+
+.view {
+  background: url("https://mdbootstrap.com/images/regular/city/img%20(17).jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.padeo{
+  padding-right: 80px;
+  padding-left: 20px;
+}
+

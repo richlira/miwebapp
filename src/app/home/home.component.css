@@ -1,0 +1,24 @@
+/* Carousel*/
+
+.carousel,
+.carousel-item,
+.active {
+  height: 100%;
+}
+
+.carousel-inner {
+  height: 100%;
+}
+
+.flex-center {
+  color: #fff;
+}
+
+.carousel-caption {
+  height: 100%;
+  padding-top: 7rem;
+}
+
+.video-fluid{
+  width: 100%;
+}
